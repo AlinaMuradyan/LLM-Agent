@@ -1,0 +1,13 @@
+# Security: Never push secrets
+.env
+
+# Python: Local environments and compiled files
+venv/
+env/
+__pycache__/
+*.pyc
+
+# OS / IDE specific
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+# Ignore git and environment files
+.git
+.env
+venv/
+env/
+__pycache__/
+*.pyc
